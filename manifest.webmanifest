@@ -1,6 +1,6 @@
 {
-  "name": "IFD Shift System",
-  "short_name": "IFD Shift System",
+  "name": "Shift System",
+  "short_name": "Shift System",
   "description": "ระบบขอเปลี่ยนกะปฏิบัติงานออนไลน์ (IFD Pink Line)",
   "start_url": "./index.html",
   "scope": "./",
